@@ -47,8 +47,8 @@ Master's student in **Applied Data Science & AI** at **SRH University Heidelberg
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AdithyaDarga&show_icons=true&theme=radical" alt="Adithya's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdithyaDarga&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://streak-stats.demolab.com?user=AdithyaDarga&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=AdithyaDarga&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
