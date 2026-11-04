@@ -1,6 +1,6 @@
 # Hi there, I'm Adithya Darga 👋
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)]((https://www.linkedin.com/in/adithya-darga-783176306/))
 [![GitHub](https://img.shields.io/badge/GitHub-AdithyaDarga-181717?style=flat&logo=github)](https://github.com/AdithyaDarga)
 
 Master's student in **Applied Data Science & AI** at **SRH University Heidelberg**, Germany. Passionate about machine learning, computer vision, data analytics, and building scalable full-stack applications.
